@@ -1,8 +1,5 @@
 {
 	"compilerOptions": {
-		"target": "es2017",
-		"module": "commonjs",
-		"lib": ["esnext"],
 		"importHelpers": true,
 
 		"strict": true,
