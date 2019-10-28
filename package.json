@@ -15,7 +15,7 @@
 		"access": "public"
 	},
 	"devDependencies": {
-		"np": "5.1.1",
+		"np": "5.1.2",
 		"typescript": "3.6.4"
 	}
 }
