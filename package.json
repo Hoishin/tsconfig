@@ -16,6 +16,6 @@
 	},
 	"devDependencies": {
 		"np": "6.2.0",
-		"typescript": "3.8.2"
+		"typescript": "3.8.3"
 	}
 }
