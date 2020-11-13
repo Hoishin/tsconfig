@@ -9,6 +9,7 @@
 		"noFallthroughCasesInSwitch": true,
 
 		"moduleResolution": "node",
-		"esModuleInterop": true
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true
 	}
 }
