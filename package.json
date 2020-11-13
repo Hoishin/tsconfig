@@ -9,13 +9,14 @@
 		"tsconfig.json"
 	],
 	"peerDependencies": {
-		"typescript": ">=3.2.2"
+		"typescript": ">=3.2.2",
+		"tslib": "*"
 	},
 	"publishConfig": {
 		"access": "public"
 	},
 	"devDependencies": {
-		"np": "6.2.0",
+		"standard-version": "^9.0.0",
 		"typescript": "3.8.3"
 	}
 }
